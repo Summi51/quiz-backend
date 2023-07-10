@@ -1,0 +1,68 @@
+{
+    "quiz": [
+        {
+            "id": 1,
+            "name": "Summi",        
+            "category ": "General Knowledge",
+            "difficulty": "Easy",
+            "questions": 10
+            
+        },
+        {
+            "id": 2,
+            "name": "Summi",        
+            "category ": "Sports",
+            "difficulty": "Hard",
+            "questions": 10
+            
+        },
+        {
+            "id": 3,
+            "name": "Summi",        
+            "category ": "Geography",
+            "difficulty": "Medium",
+            "questions": 10
+            
+        },
+        {
+            "id": 3,
+            "name": "Summi",        
+            "category ": "General Knowledge",
+            "difficulty": "Easy",
+            "questions": 10
+            
+        },
+        {
+            "id": 4,
+            "name": "Summi",        
+            "category ": "Geography",
+            "difficulty": "Medium",
+            "questions": 10
+            
+        },
+        {
+            "id": 5,
+            "name": "Summi",        
+            "category ": "Sports",
+            "difficulty": "Hard",
+            "questions": 10
+            
+        },
+        {
+            "id": 6,
+            "name": "Summi",        
+            "category ": "General Knowledge",
+            "difficulty": "Easy",
+            "questions": 10
+            
+        },
+        {
+            "id": 7,
+            "name": "Shifa",        
+            "category ": "Geography",
+            "difficulty": "Medium",
+            "questions": 10
+            
+        }
+    ]
+}
